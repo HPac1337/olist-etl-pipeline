@@ -1,0 +1,5 @@
+2026-03-05 19:52:31,546 [INFO] Pipeline started.
+2026-03-05 19:52:31,546 [INFO] Step 1: Extract
+2026-03-05 19:52:33,294 [INFO] Step 2: Transform
+2026-03-05 19:52:33,742 [INFO] Step 3: Load
+2026-03-05 19:52:34,733 [INFO] Pipeline complete.
